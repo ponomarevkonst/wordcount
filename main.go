@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"strings"
+	"os"
 )
 
 func main() {
